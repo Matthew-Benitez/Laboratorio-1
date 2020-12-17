@@ -12,6 +12,8 @@
 
 2. MARCO TEÓRICO
 
+![image](https://user-images.githubusercontent.com/75439689/102423835-df314a00-3fd7-11eb-983d-872db8574a41.png)
+
 3. DIAGRAMAS
 
 4. LISTA DE COMPONENTES
