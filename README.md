@@ -26,3 +26,5 @@
     - Resistencia de 3.9 kΩ
     - Protoboard
 5. EXPLICACIÓN
+
+    -
