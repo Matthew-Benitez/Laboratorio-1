@@ -11,6 +11,7 @@
     - Mediante la medición y el cálculo de los voltajes y las corrientes del circuito, observar y analizar las diferencias y los errores.
 
 2. MARCO TEÓRICO
+![image](https://user-images.githubusercontent.com/75439689/102423624-721db480-3fd7-11eb-928e-85eef84432ad.png)
 
 
 3. DIAGRAMAS
