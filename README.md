@@ -2,7 +2,7 @@
 1. OBJETIVOS
 - Objetivo General:
 
-    - Experimentar y analizar las leyes de Kirchhoff mediante su aplicación en simuladores.
+    - Experimentar y analizar las leyes de Kirchhoff mediante su aplicación en simuladores, con el fin de ampliar los conocimientos tanto prácticos como teóricos.
 
 - Objetivos Específicos:
 
@@ -24,3 +24,4 @@
     - Resistencia de 1.8 kΩ
     - Resistencia de 3.9 kΩ
     - Protoboard
+5. Explicación
