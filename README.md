@@ -16,6 +16,7 @@
 ![image](https://github.com/Matthew-Benitez/Laboratorio-1/blob/main/2020-12-18%20(8).png?raw=true)
 
 3. DIAGRAMAS
+
 ![image](https://user-images.githubusercontent.com/75439689/102423835-df314a00-3fd7-11eb-983d-872db8574a41.png)
 
 4. LISTA DE COMPONENTES
