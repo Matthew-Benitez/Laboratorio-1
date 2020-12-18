@@ -11,6 +11,7 @@
     - Mediante la medición y el cálculo de los voltajes y las corrientes del circuito, observar y analizar las diferencias y los errores.
 
 2. MARCO TEÓRICO
+![document](mapa conceptual marco teorico (1).pdf)
 
 ![image](https://user-images.githubusercontent.com/75439689/102423835-df314a00-3fd7-11eb-983d-872db8574a41.png)
 
