@@ -12,8 +12,9 @@
 
 2. MARCO TEÓRICO
 
-![image](2020-12-18 (6).png)
-![image](2020-12-18 (8).png)
+![image](https://github.com/Matthew-Benitez/Laboratorio-1/blob/main/2020-12-18%20(6).png?raw=true)
+![image](https://github.com/Matthew-Benitez/Laboratorio-1/blob/main/2020-12-18%20(8).png?raw=true)
+
 3. DIAGRAMAS
 ![image](https://user-images.githubusercontent.com/75439689/102423835-df314a00-3fd7-11eb-983d-872db8574a41.png)
 
