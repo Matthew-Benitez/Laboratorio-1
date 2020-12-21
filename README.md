@@ -38,8 +38,9 @@
     
       Una vez realizado el circuito, se procede a realizar las respectivas mediciones, tanto de voltaje como de intensidad de corriente para cada uno de los cinco resistores, obteniéndose así los valores medidos para la elaboración de la tabla; y a la vez, se procede a realizar los cálculos, aplicando la Ley de Ohm y las Leyes de Kirchhoff, para obtener dichos valores de cada resistencia mediante operaciones matemáticas.
       
-      
-      
+   5.3. Verificación de la Ley de Kirchhoff de Voltaje
+   
+      A continuación se tabulan los voltajes de cada resistencia y se analizan por mallas, es decir, por trayectorias de cada circuito cerrado y se procede a sumar dichos valores por cada malla, verificando si se cumple la Ley de Kirchhoff de Voltajes
       
      
      
