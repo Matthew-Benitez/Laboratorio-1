@@ -21,13 +21,7 @@
 
 4. LISTA DE COMPONENTES
 
-    - Fuentes de Voltaje de C.D.
-    - Multímetros Digitales
-    - Resistencia de 1 kΩ
-    - Resistencias de 2.2 kΩ
-    - Resistencia de 1.8 kΩ
-    - Resistencia de 3.9 kΩ
-    - Protoboard
+    ![image](https://user-images.githubusercontent.com/75439689/102730398-a6101700-4302-11eb-9f95-6f5b309824eb.png)
 5. EXPLICACIÓN
 
     -
