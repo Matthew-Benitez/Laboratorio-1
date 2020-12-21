@@ -24,7 +24,7 @@
     ![image](https://user-images.githubusercontent.com/75439689/102730398-a6101700-4302-11eb-9f95-6f5b309824eb.png)
 5. EXPLICACIÓN
 
-   Procedimiento
+   5.1. Procedimiento
 
      - Ingresar a la plataforma *Tinkercad* y crear un nuevo circuito, en el cual se escogen los componentes listados anteriormente.
      - Se conecta el suministro de energía de 10 voltios a la placa de pruebas (*protoboard*) uniendo respectivamente los polos positivos y negativos del suministro y la placa.
@@ -34,6 +34,13 @@
      - Posteriormente se conectan los otros extremos de *R2* y *R4* a un extremo de *R5*, obteniéndose así otro nodo.
      - Por último, se une el otro extremo de *R5* al polo negativo del suministro de energía, cerrándose el circuito por completo y obteniéndose así un circuito con dos mallas y dos nodos.
      
+    5.2. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
+    
+      Una vez realizado el circuito, se procede a realizar las respectivas mediciones, tanto de voltaje como de intensidad de corriente para cada uno de los cinco resistores, obteniéndose así los valores medidos para la elaboración de la tabla; y a la vez, se procede a realizar los cálculos, aplicando la Ley de Ohm y las Leyes de Kirchhoff, para obtener dichos valores de cada resistencia mediante operaciones matemáticas.
+      
+      
+      
+      
      
      
      
