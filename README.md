@@ -42,6 +42,12 @@
    
       A continuación se tabulan los voltajes de cada resistencia y se analizan por mallas, es decir, por trayectorias de cada circuito cerrado y se procede a sumar dichos valores por cada malla, verificando si se cumple la Ley de Kirchhoff de Voltajes
       
-     
-     
-     
+           
+6. CONCLUSIONES
+
+7. BIBLIOGRAFÍA
+
+   - Floyd, T. L. (2007). Principios de circuitos eléctricos (Octava ed.).
+
+
+8. ANEXOS
