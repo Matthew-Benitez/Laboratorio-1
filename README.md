@@ -27,5 +27,8 @@
    Procedimiento
 
      - Ingresar a la plataforma de tinkercad y crear un nuevo circuito, en el cual se escogen los componentes listados anteriormente.
-     - Se conecta el suministro de energía de 10 voltios a la placa de pruebas (protoboard) uniendo respectivamente los polos positivos y negativos del suministro y la placa.
+     - Se conecta el suministro de energía de 10 voltios a la placa de pruebas (*protoboard*) uniendo respectivamente los polos positivos y negativos del suministro y la placa.
      - Se realizan las respectivas conecciones de las cinco resistencias en la placa de pruebas basándonos en el modelo planteado      inicalmente para la realización de la práctica, el cual consta de dos circuitos cerrados.
+     
+     
+     
