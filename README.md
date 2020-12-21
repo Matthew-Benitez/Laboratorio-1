@@ -29,7 +29,7 @@
      - Ingresar a la plataforma *Tinkercad* y crear un nuevo circuito, en el cual se escogen los componentes listados anteriormente.
      - Se conecta el suministro de energía de 10 voltios a la placa de pruebas (*protoboard*) uniendo respectivamente los polos positivos y negativos del suministro y la placa.
      - A continuación se conecta un extremo de la resistencia *R1* al polo postivio de la placa que se encuentra a su vez conectada al polo positivo de la fuente de voltaje.
-     -Posteriormente se une el otro extremo de la resistencia *R1* a un extremo de la resistencia *R2* y a otro extremo de *R3*, generándose así un nodo.
+     - Posteriormente se une el otro extremo de la resistencia *R1* a un extremo de la resistencia *R2* y a otro extremo de *R3*, generándose así un nodo.
      - El otro extremo de *R3* se conecta a un extremo de la resistencia *R4*.
      - Posteriormente se conectan los otros extremos de *R2* y *R4* a un extremo de *R5*, obteniéndose así otro nodo.
      - Por último, se une el otro extremo de *R5* al polo negativo del suministro de energía, cerrándose el circuito por completo y obteniéndose así un circuito con dos mallas y dos nodos.
