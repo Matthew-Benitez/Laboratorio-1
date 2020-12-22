@@ -17,35 +17,19 @@
 
 3. DIAGRAMAS
 
-- Modelo del circuito
-
-![image](https://raw.githubusercontent.com/Matthew-Benitez/Laboratorio-1/main/Diagramas/20201221_213206.jpg)
-
-*Figura 1.1*
-
 - Circuito
 
 ![image](https://user-images.githubusercontent.com/75439689/102837560-074eed80-43ca-11eb-89eb-7a74e9d81bd6.png)
-
-*Figura 1.2*
-
 - Circuito y Voltímetros
 
 ![image](https://user-images.githubusercontent.com/75439689/102837593-19c92700-43ca-11eb-93ac-4d4344f0b5b0.png)
-
-*Figura 1.3*
-
 - Circuito y Amperímetros
 
 ![image](https://user-images.githubusercontent.com/75439689/102837613-277eac80-43ca-11eb-908e-8be461993555.png)
 
-*Figura 1.4*
-
 4. LISTA DE COMPONENTES
 
 ![image](https://user-images.githubusercontent.com/75439689/102837452-d1116e00-43c9-11eb-9b84-074ea2931773.png)
-
-*Figura 1.5*
 
 5. EXPLICACIÓN
 
@@ -80,6 +64,9 @@
       ![image](https://user-images.githubusercontent.com/75439689/102842026-0f138f80-43d4-11eb-8a83-17c3b79970e4.png)
       
 6. CONCLUSIONES
+
+La práctica de laboratorio nos ofreció conocimiento acerca de las Leyes de Kirchhoff, de las cuales fueron expuestas las Leyes de Voltaje de Kirchhoff donde: en la simulación fueron comprobados que la sumatoria de voltajes de un circuito cerrado es igual al voltaje de fuente; demostrado en la tabla 2 donde además de distinguir 3 trayectorias, en todas estas se comprobaban las LVK. Además las Leyes de Corriente de Kirchhoff fueron corroboradas en la tabla 3, indicando como en cada nodo las corrientes de salidas eran iguales a las corrientes de entrada; fue indicado así en 3 nodos. 
+Para concluir, el laboratorio fue un claro ejercicio y práctica, tanto analítica como simulada, para practicar y comprobar las leyes de Kirchhoff que son esenciales para los circuitos básicos y que serán muy utilizados en el futuro para circutios más avanzados.
 
 7. BIBLIOGRAFÍA
 
