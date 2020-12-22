@@ -50,11 +50,13 @@
    5.3. Verificación de la Ley de Kirchhoff de Voltaje
    
       A continuación se tabulan los voltajes de cada resistencia y se analizan por mallas, es decir, por trayectorias de cada circuito cerrado y se procede a sumar dichos valores por cada malla, verificando si se cumple la Ley de Kirchhoff de Voltajes.
+      
    5.4. Verificación de la Ley de Kirchhoff de Corrientes
    
       Una vez realizado la tabulación de corrientes de cada resistencia, se procede a analizara los nodos, puntos de uniones entre componentes, donde se verifica que la intensidad de entrada antes del nodo, es equivalente a las intensidades de salida. Y con los cálculos se verifica que estas se anulan, cumpliendo así la Ley de Corrientes de Kirchhoff.
       
     ![image](https://user-images.githubusercontent.com/75439689/102837059-07022280-43c9-11eb-8c49-d843c51a51fa.png)
+    
 6. CONCLUSIONES
 
 7. BIBLIOGRAFÍA
