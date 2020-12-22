@@ -57,6 +57,10 @@
       
     ![image](https://user-images.githubusercontent.com/75439689/102837059-07022280-43c9-11eb-8c49-d843c51a51fa.png)
     
+    5.5. Comparación de Resultados Medidos y Calculados
+    
+      Mediante el cálculo de voltaje, corriente y resistencias se pudo deducir que el simulador de Tinkercad puede sacar estos datos de una forma mas rápida pero con menos precisión, ya que falla como se puede observar en las tablas y en los cálculos de errores que hay una diferencia de entre 0.003 entre los cálculos y las mediciones. Se concluye que en efecto los valores que son extraídos mediante fórmulas son precisos pero ideales, lo que en la realidad solo pueden ser usados como modelos.
+    
 6. CONCLUSIONES
 
 7. BIBLIOGRAFÍA
