@@ -66,7 +66,7 @@
 6. CONCLUSIONES
 
 La práctica de laboratorio nos ofreció conocimiento acerca de las Leyes de Kirchhoff, de las cuales fueron expuestas las Leyes de Voltaje de Kirchhoff donde: en la simulación fueron comprobados que la sumatoria de voltajes de un circuito cerrado es igual al voltaje de fuente; demostrado en la tabla 2 donde además de distinguir 3 trayectorias, en todas estas se comprobaban las LVK. Además las Leyes de Corriente de Kirchhoff fueron corroboradas en la tabla 3, indicando como en cada nodo las corrientes de salidas eran iguales a las corrientes de entrada; fue indicado así en 3 nodos. 
-Para concluir, el laboratorio fue un claro ejercicio y práctica, tanto analítica como simulada, para practicar y comprobar las leyes de Kirchhoff que son esenciales para los circuitos básicos y que serán muy utilizados en el futuro para circutios más avanzados.
+Para concluir, el laboratorio fue un claro ejercicio y práctica, tanto analítica como simulada, para practicar y comprobar las leyes de Kirchhoff que son esenciales para los circuitos básicos y que serán muy utilizados en el futuro para circuitos más avanzados.
 
 7. BIBLIOGRAFÍA
 
