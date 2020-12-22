@@ -17,19 +17,35 @@
 
 3. DIAGRAMAS
 
+- Modelo del circuito
+
+![image](https://raw.githubusercontent.com/Matthew-Benitez/Laboratorio-1/main/Diagramas/20201221_213206.jpg)
+
+*Figura 1.1*
+
 - Circuito
 
 ![image](https://user-images.githubusercontent.com/75439689/102837560-074eed80-43ca-11eb-89eb-7a74e9d81bd6.png)
+
+*Figura 1.2*
+
 - Circuito y Voltímetros
 
 ![image](https://user-images.githubusercontent.com/75439689/102837593-19c92700-43ca-11eb-93ac-4d4344f0b5b0.png)
+
+*Figura 1.3*
+
 - Circuito y Amperímetros
 
 ![image](https://user-images.githubusercontent.com/75439689/102837613-277eac80-43ca-11eb-908e-8be461993555.png)
 
+*Figura 1.4*
+
 4. LISTA DE COMPONENTES
 
 ![image](https://user-images.githubusercontent.com/75439689/102837452-d1116e00-43c9-11eb-9b84-074ea2931773.png)
+
+*Figura 1.5*
 
 5. EXPLICACIÓN
 
