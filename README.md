@@ -17,15 +17,29 @@
 
 3. DIAGRAMAS
 
+- Modelo del circuito
+
+![image](https://github.com/Matthew-Benitez/Laboratorio-1/blob/main/Diagramas/20201221_213206.jpg)
+
+*Figura 1.1*
+
 - Circuito
 
 ![image](https://user-images.githubusercontent.com/75439689/102837560-074eed80-43ca-11eb-89eb-7a74e9d81bd6.png)
+
+*Figura 1.2*
+
 - Circuito y Voltímetros
 
 ![image](https://user-images.githubusercontent.com/75439689/102837593-19c92700-43ca-11eb-93ac-4d4344f0b5b0.png)
+
+*Figura 1.3*
+
 - Circuito y Amperímetros
 
 ![image](https://user-images.githubusercontent.com/75439689/102837613-277eac80-43ca-11eb-908e-8be461993555.png)
+
+*Figura 1.4*
 
 4. LISTA DE COMPONENTES
 
@@ -47,15 +61,25 @@
     
       Una vez realizado el circuito, se procede a realizar las respectivas mediciones, tanto de voltaje como de intensidad de corriente para cada uno de los cinco resistores, obteniéndose así los valores medidos para la elaboración de la tabla; y a la vez, se procede a realizar los cálculos, aplicando la Ley de Ohm y las Leyes de Kirchhoff, para obtener dichos valores de cada resistencia mediante operaciones matemáticas.
       
+    ![image](https://github.com/Matthew-Benitez/Laboratorio-1/blob/main/Tablas/2020-12-21%20(2).png)
+    
+    *Tabla 1.1*  
+      
    5.3. Verificación de la Ley de Kirchhoff de Voltaje
    
       A continuación se tabulan los voltajes de cada resistencia y se analizan por mallas, es decir, por trayectorias de cada circuito cerrado y se procede a sumar dichos valores por cada malla, verificando si se cumple la Ley de Kirchhoff de Voltajes.
+      
+      ![image](https://github.com/Matthew-Benitez/Laboratorio-1/blob/main/Tablas/2020-12-21%20(1).png)
+      
+      *Tabla 1.2*
       
    5.4. Verificación de la Ley de Kirchhoff de Corrientes
    
       Una vez realizado la tabulación de corrientes de cada resistencia, se procede a analizara los nodos, puntos de uniones entre componentes, donde se verifica que la intensidad de entrada antes del nodo, es equivalente a las intensidades de salida. Y con los cálculos se verifica que estas se anulan, cumpliendo así la Ley de Corrientes de Kirchhoff.
       
     ![image](https://user-images.githubusercontent.com/75439689/102837059-07022280-43c9-11eb-8c49-d843c51a51fa.png)
+    
+    *Tabla 1.3*
     
     5.5. Comparación de Resultados Medidos y Calculados
     
@@ -71,6 +95,3 @@ Para concluir, el laboratorio fue un claro ejercicio y práctica, tanto analíti
 7. BIBLIOGRAFÍA
 
    - Floyd, T. L. (2007). Principios de circuitos eléctricos (Octava ed.).
-
-
-8. ANEXOS
