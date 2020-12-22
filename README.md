@@ -45,6 +45,8 @@
 
 ![image](https://user-images.githubusercontent.com/75439689/102837452-d1116e00-43c9-11eb-9b84-074ea2931773.png)
 
+*Tabla 1.1*
+
 5. EXPLICACIÓN
 
    5.1. Procedimiento
@@ -63,7 +65,7 @@
       
     ![image](https://github.com/Matthew-Benitez/Laboratorio-1/blob/main/Tablas/2020-12-21%20(2).png)
     
-    *Tabla 1.1*  
+    *Tabla 2.1*  
       
    5.3. Verificación de la Ley de Kirchhoff de Voltaje
    
@@ -71,7 +73,7 @@
       
       ![image](https://github.com/Matthew-Benitez/Laboratorio-1/blob/main/Tablas/2020-12-21%20(1).png)
       
-      *Tabla 1.2*
+      *Tabla 2.2*
       
    5.4. Verificación de la Ley de Kirchhoff de Corrientes
    
@@ -79,11 +81,17 @@
       
     ![image](https://user-images.githubusercontent.com/75439689/102837059-07022280-43c9-11eb-8c49-d843c51a51fa.png)
     
-    *Tabla 1.3*
+    *Tabla 2.3*
     
     5.5. Comparación de Resultados Medidos y Calculados
     
       Mediante el cálculo de voltaje, corriente y resistencias se pudo deducir que el simulador de Tinkercad puede sacar estos datos de una forma mas rápida pero con menos precisión, ya que falla como se puede observar en las tablas que hay una diferencia de entre 0.007 entre los cálculos y las mediciones. Por otra parte, en los cálculos de los errores se puede observar que los datos calculados son más precisosque los medidos ya que cuentan con un error porcentual de menos 0.1%, mientras que los medidos son mayores a estos. Se concluye que en efecto los valores que son extraídos mediante fórmulas son precisos pero ideales, lo que en la realidad solo pueden ser usados como modelos.
+      
+      - Porcentajes de error de la *tabla 2.2*
+      
+      ![image](https://github.com/Matthew-Benitez/Laboratorio-1/blob/main/2020-12-21%20(3).png)
+      
+      - Porcentajes de error de la *tabla 2.3*
       
       ![image](https://user-images.githubusercontent.com/75439689/102842026-0f138f80-43d4-11eb-8a83-17c3b79970e4.png)
       
