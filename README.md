@@ -53,7 +53,7 @@
 
      - Ingresar a la plataforma *Tinkercad* y crear un nuevo circuito, en el cual se escogen los componentes listados anteriormente.
      - Se conecta el suministro de energía de 10 voltios a la placa de pruebas (*protoboard*) uniendo respectivamente los polos positivos y negativos del suministro y la placa.
-     - A continuación se conecta un extremo de la resistencia *R1* al polo postivio de la placa que se encuentra a su vez conectada al polo positivo de la fuente de voltaje.
+     - A continuación se conecta un extremo de la resistencia *R1* al polo positivo de la placa que se encuentra a su vez conectada al polo positivo de la fuente de voltaje.
      - Posteriormente se une el otro extremo de la resistencia *R1* a un extremo de la resistencia *R2* y a otro extremo de *R3*, generándose así un nodo.
      - El otro extremo de *R3* se conecta a un extremo de la resistencia *R4*.
      - Posteriormente se conectan los otros extremos de *R2* y *R4* a un extremo de *R5*, obteniéndose así otro nodo.
@@ -77,7 +77,7 @@
       
    5.4. Verificación de la Ley de Kirchhoff de Corrientes
    
-      Una vez realizado la tabulación de corrientes de cada resistencia, se procede a analizara los nodos, puntos de uniones entre componentes, donde se verifica que la intensidad de entrada antes del nodo, es equivalente a las intensidades de salida. Y con los cálculos se verifica que estas se anulan, cumpliendo así la Ley de Corrientes de Kirchhoff.
+      Una vez realizado la tabulación de corrientes de cada resistencia, se procede a analizar los nodos, puntos de uniones entre componentes, donde se verifica que la intensidad de entrada antes del nodo, es equivalente a la intensidad de salida de dicho nodo. Y con los cálculos se verifica que estas se anulan, cumpliendo así la Ley de Corrientes de Kirchhoff.
       
     ![image](https://user-images.githubusercontent.com/75439689/102837059-07022280-43c9-11eb-8c49-d843c51a51fa.png)
     
@@ -85,7 +85,7 @@
     
     5.5. Comparación de Resultados Medidos y Calculados
     
-      Mediante el cálculo de voltaje, corriente y resistencias se pudo deducir que el simulador de Tinkercad puede sacar estos datos de una forma mas rápida pero con menos precisión, ya que falla como se puede observar en las tablas que hay una diferencia de entre 0.007 entre los cálculos y las mediciones. Por otra parte, en los cálculos de los errores se puede observar que los datos calculados son más precisosque los medidos ya que cuentan con un error porcentual de menos 0.1%, mientras que los medidos son mayores a estos. Se concluye que en efecto los valores que son extraídos mediante fórmulas son precisos pero ideales, lo que en la realidad solo pueden ser usados como modelos.
+      Mediante el cálculo de voltaje, corriente y resistencias se pudo deducir que el simulador de Tinkercad puede sacar estos datos de una forma mas rápida pero con menos precisión, ya que falla como se puede observar en las tablas que hay una diferencia de entre 0.007 entre los cálculos y las mediciones. Por otra parte, en los cálculos de los errores se puede observar que los datos calculados son más precisos que los medidos ya que cuentan con un error porcentual de menos 0.1%, mientras que los medidos son mayores a estos. Se concluye que en efecto los valores que son extraídos mediante fórmulas son precisos pero ideales, lo que en la realidad solo pueden ser usados como modelos.
       
       - Porcentajes de error de la *tabla 2.2*
       
@@ -97,7 +97,7 @@
       
 6. CONCLUSIONES
 
-La práctica de laboratorio nos ofreció conocimiento acerca de las Leyes de Kirchhoff, de las cuales fueron expuestas las Leyes de Voltaje de Kirchhoff donde: en la simulación fueron comprobados que la sumatoria de voltajes de un circuito cerrado es igual al voltaje de fuente; demostrado en la tabla 2 donde además de distinguir 3 trayectorias, en todas estas se comprobaban las LVK. Además las Leyes de Corriente de Kirchhoff fueron corroboradas en la tabla 3, indicando como en cada nodo las corrientes de salidas eran iguales a las corrientes de entrada; fue indicado así en 3 nodos. También se analizaron los datos medidos y calculados, cada uno de ellos resaltan con un error menor al 1%, sin embargo, los datos calculados demuestran un error menor al 0.1%, esto implica que a pesar de tener un simulador que muestra información, no emite datos tan precisos.
+La práctica de laboratorio nos ofreció conocimiento acerca de las Leyes de Kirchhoff, de las cuales fueron expuestas las Leyes de Voltaje de Kirchhoff donde: en la simulación fueron comprobados que la sumatoria de voltajes de un circuito cerrado es igual al voltaje de fuente; demostrado en la tabla 2 donde además de distinguir 3 trayectorias, en todas estas se comprobaban las LVK. Además las Leyes de Corriente de Kirchhoff fueron corroboradas en la tabla 3, indicando como en cada nodo las corrientes de salidas eran iguales a las corrientes de entrada; fue indicado así en 3 nodos. También se analizaron los datos medidos y calculados, cada uno de ellos, en el cálculo de corrientes, resaltan con un error menor al 1%, sin embargo, los datos calculados demuestran un error menor al 0.1%, esto implica que a pesar de tener un simulador que muestra información, no emite datos tan precisos.
 Para concluir, el laboratorio fue un claro ejercicio y práctica, tanto analítica como simulada, para practicar y comprobar las leyes de Kirchhoff que son esenciales para los circuitos básicos y que serán muy utilizados en el futuro para circuitos más avanzados.
 
 7. BIBLIOGRAFÍA
