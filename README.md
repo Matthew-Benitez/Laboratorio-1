@@ -21,7 +21,7 @@
 
 4. LISTA DE COMPONENTES
 
-    ![image](https://user-images.githubusercontent.com/75439689/102730398-a6101700-4302-11eb-9f95-6f5b309824eb.png)
+    ![image](https://user-images.githubusercontent.com/75439689/102837452-d1116e00-43c9-11eb-9b84-074ea2931773.png)
 5. EXPLICACIÓN
 
    5.1. Procedimiento
