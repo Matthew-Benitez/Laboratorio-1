@@ -47,9 +47,17 @@
     
       Una vez realizado el circuito, se procede a realizar las respectivas mediciones, tanto de voltaje como de intensidad de corriente para cada uno de los cinco resistores, obteniéndose así los valores medidos para la elaboración de la tabla; y a la vez, se procede a realizar los cálculos, aplicando la Ley de Ohm y las Leyes de Kirchhoff, para obtener dichos valores de cada resistencia mediante operaciones matemáticas.
       
+      ![image](https://github.com/Matthew-Benitez/Laboratorio-1/blob/main/Tablas/2020-12-21%20(2).png)
+      
+      *Tabla 1.1*
+      
    5.3. Verificación de la Ley de Kirchhoff de Voltaje
    
       A continuación se tabulan los voltajes de cada resistencia y se analizan por mallas, es decir, por trayectorias de cada circuito cerrado y se procede a sumar dichos valores por cada malla, verificando si se cumple la Ley de Kirchhoff de Voltajes.
+      
+      ![image](https://github.com/Matthew-Benitez/Laboratorio-1/blob/main/Tablas/2020-12-21%20(1).png)
+      
+      *Tabla 1.2*
       
    5.4. Verificación de la Ley de Kirchhoff de Corrientes
    
@@ -57,12 +65,14 @@
       
     ![image](https://user-images.githubusercontent.com/75439689/102837059-07022280-43c9-11eb-8c49-d843c51a51fa.png)
     
+    *Tabla 1.3*
+    
     5.5. Comparación de Resultados Medidos y Calculados
     
       Mediante el cálculo de voltaje, corriente y resistencias se pudo deducir que el simulador de Tinkercad puede sacar estos datos de una forma mas rápida pero con menos precisión, ya que falla como se puede observar en las tablas y en los cálculos de errores que hay una diferencia de entre 0.007 entre los cálculos y las mediciones. Se concluye que en efecto los valores que son extraídos mediante fórmulas son precisos pero ideales, lo que en la realidad solo pueden ser usados como modelos.
       
       ![image](https://user-images.githubusercontent.com/75439689/102838817-15ead400-43cd-11eb-82ff-c73234143f01.png)
-    
+          
 6. CONCLUSIONES
 
 7. BIBLIOGRAFÍA
